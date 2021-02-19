@@ -1,4 +1,5 @@
 Qui suis-je ?
 41 ans, developpeur ultra junior.
-JaavasScript PHP HTML/CSS
+JavasScript PHP HTML/CSS
 
+Je rame, c'est normal ??
